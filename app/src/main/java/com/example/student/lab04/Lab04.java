@@ -37,5 +37,6 @@ public class Lab04 extends AppCompatActivity {
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setView(layout);
         toast.show();
+        //i am from gitHub
     }
 }
